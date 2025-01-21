@@ -1,0 +1,11 @@
+.idea/
+__pycache__/
+checkpoints/
+data*/
+*.pstat
+client.properties
+results/
+plots/
+lib/
+GMatch4py/
+results_data*
